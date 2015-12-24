@@ -17,7 +17,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.andaijia.adjDriverApp2.ios8fix</string>
+				<string>cn.andaijia.adjDriverApp2</string>
 				<key>bundle-version</key>
 				<string>2.3.7</string>
 				<key>kind</key>
